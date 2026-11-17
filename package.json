@@ -1,0 +1,11 @@
+{
+  "name": "divika",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static mirror of the Holyline Cerdas template kit",
+  "scripts": {
+    "dev": "npx --yes serve -l 4765 .",
+    "start": "npx --yes serve -l 4765 .",
+    "preview": "npx --yes serve -l 4765 ."
+  }
+}
